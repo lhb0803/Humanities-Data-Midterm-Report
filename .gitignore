@@ -1,0 +1,7 @@
+*.docx
+codeblock.md
+/data
+.RData
+.RDataTmp
+.RDataTmp1
+.Rhistory
